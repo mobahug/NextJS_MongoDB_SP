@@ -119,7 +119,7 @@ export default function Home({
         <title>Nextbnb</title>
         <link rel="icon" href="/favicon.ico" />
         <link
-          rel="stylesheet"
+          
           href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css"
         />
       </Head>
